@@ -1,0 +1,2 @@
+# MINI-THESIS
+jamovi file
